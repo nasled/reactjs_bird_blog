@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-const NEWSAPI_KEY = "978b75bcd5744c2fbceebd415fbc3be3";
+const NEWSAPI_KEY = "---";
 const NEWSAPI_ENDPOINT = "https://newsapi.org/v2/";
 const NEWSAPI_QUERY = "birds";
 
