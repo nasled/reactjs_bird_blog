@@ -6,7 +6,7 @@ This project is a demonstration example of a blog build using React, Boostrap, A
 
 In the components directory, you can update NEWSAPI_KEY to fetch the sidebar 3rd-party news.
 
-### `npm install`
+### `const NEWSAPI_KEY = "---";`
 
 In the project directory, you can run to install dependecies:
 
